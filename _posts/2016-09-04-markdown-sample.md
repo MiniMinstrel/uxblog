@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Markdown sample"
+title:  "Art of Push Notifs"
 date:   2016-09-04
+subtitle: "How do we discern falsehoods from truths?"
 ---
+
+_what the fuck did you just say to me you little shit I'll have you know that_
 
 ### Markdown test document
 
@@ -156,11 +159,11 @@ Inline code inside table cells should still be distinguishable.
 
 Small images should be shown at their actual size.
 
-![](http://placekitten.com/g/300/200/)
+![](https://images-ext-1.discordapp.net/external/Y-w4t3XlVNfVk7p_4qbsgyZuAK0wGYgj3QMJU_uBL4U/https/cdn.pluralkit.me/images/ky/beu5e4l2agaoekonhmokpi74.webp?format=webp&width=150&height=150)
 
 Large images should always scale down and fit in the content container.
 
-![](http://placekitten.com/g/1200/800/)
+![](https://images-ext-1.discordapp.net/external/_-8BNm17NiLbA2Mdruw2ATLFM5tUGfGbofZF4Z4YSdo/https/pbs.twimg.com/media/F4ecc90X0AASM2M.jpg?format=webp&width=640&height=670)
 
 ```
 This is the final element on the page and there should be no margin below this.

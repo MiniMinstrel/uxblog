@@ -13,8 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Testing testing...
-description: A bold typographic theme inspired by Swiss design.
+title: Hooks <br/>& Loops
+minititle: Hooks & Loops
+description: A UX blog dedicated to the psychological principles and design choices that keep us coming back for more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: jekyll # the GitHub repo name for your project
@@ -31,3 +32,10 @@ theme_color: orange
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-animate-elements
+
+animation:
+  enabled: true
+  selector: ".animate"
