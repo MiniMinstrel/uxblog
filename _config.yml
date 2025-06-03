@@ -16,7 +16,7 @@
 title: Hooks <br/>& Loops
 minititle: Hooks & Loops
 description: A UX blog dedicated to the psychological principles and design choices that keep us coming back for more.
-baseurl: "uxblog" # the subpath of your site, e.g. /blog
+baseurl: "/uxblog" # the subpath of your site, e.g. /blog
 url: "https://miniminstrel.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: uxblog # the GitHub repo name for your project
 github_username: MiniMinstrel
