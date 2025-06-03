@@ -9,7 +9,7 @@ Nothing scares me more in this world than wasps.
 
 A close second though? Probably someone with a triple digit Duolingo streak.
 
-![](./assets/images-posts/700-day-streak.png){: style="width: 50%;"}
+![](../assets/images-posts/700-day-streak.png){: style="width: 50%;"}
 _Duolingo loves to remind you how dedicated you are to learning. But just how much quality learning is being done here?_
 
 To those who are not one of the [130 million monthly active users](https://investors.duolingo.com/static-files/01420520-3377-4985-887b-55ed3c1e4fc5) Duolingo has, the application touts a "gamified" approach to learning languages that makes the daunting idea a bit more approachable. Users walk a linear path to language mastery through bite-sized lessons every day, building up a streak day after day to keep the loveable (yet sadistic) mascot, Duo, happy.
@@ -22,7 +22,7 @@ Like the clothes you wear or the car you drive, Duolingo streaks for people have
 
 If you have used Duolingo recently and began your journey into learning a language, you've probably been met with a bright and flashy prompt after a few days of learning.
 
-![](./assets/images-posts/streak-society-induction.png){: style="width: 25%;"}
+![](../assets/images-posts/streak-society-induction.png){: style="width: 25%;"}
 _A flashy animation and a warm splash of color turns your one minute lesson into a monumental achievement._
 
 This is Duolingo's exclusive and prestigious club of learners known as the **Streak Society**. When it first launched in 2022, you were inducted into this group after reaching a year of consistent studying with Duolingo. Themed after the flame iconography their streaks take after, as well as leveraging the phoenix as a well-known icon across cultures, it serves as a universally acknowledgeable milestone of your committed learning.
@@ -61,7 +61,7 @@ Streak Freezes, for example, help preserve streaks should learners forget to do 
 
 However, with the frequency at which Streak Freezes can be purchased (or even given as rewards for lessons), streaks can be maintained for months and months on end without logging in as often. Streak Freezes also don't count against the streak, so it still appears as though the streak if a perfect one; a symbol of a flawless, dedicated learner.
 
-![](./assets/images-posts/frozen-calendar.png){: style="width: 40%;"}
+![](../assets/images-posts/frozen-calendar.png){: style="width: 40%;"}
 _Users can view their calendar to see how many days they've skipped, but other users can't. Does this look like dedicated learning still?_
 
 And should a streak get broken despite every guard rail, Duolingo is generous enough to even offer a _Streak Repair_, should you be willing to sit through a few short lessons to get it back.
