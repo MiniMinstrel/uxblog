@@ -12,7 +12,7 @@ I started this blog in 2025 to supplement my interest in psychology and interact
 
 Attention is currency. Knowledge is power. And if you know how these tactics and design decisions influence you, you can get back the time you spend towards what matters to you.
 
-### Who Am I? 
+### Who Am I?
 
 ![](/assets/images-about/scharff-headshot.jpg){: style="float: right; border: 1px black solid; margin: 8px" height="200"}
 
