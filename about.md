@@ -20,7 +20,7 @@ I'm John Scharff, a UI/UX developer with a passion for social psychology. After 
 
 I aspire to work in a career where I can leverage my dual disciplines in technology and psychology to create cutting-edge products that put users and their needs first. 
 
-Feel free to reach out to me on my [LinkedIn](https://www.linkedin.com/in/john-scharff){: style="color: #0000EE"}, or email me at __jascharff02@gmail.com__
+Feel free to reach out to me on my [LinkedIn](https://www.linkedin.com/in/john-scharff){: style="color: #0000EE"}, or email me at __scharff.ja@gmail.com__
 
 
 

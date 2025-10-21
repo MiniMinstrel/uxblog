@@ -22,7 +22,7 @@ Like the clothes you wear or the car you drive, Duolingo streaks for people have
 
 If you have used Duolingo recently and began your journey into learning a language, you've probably been met with a bright and flashy prompt after a few days of learning.
 
-<img src="{{site.baseurl | prepend: site.url}}/assets/images/streak-society-induction.png" alt="streak-society-induction" style="width:25%;" />
+<img src="{{site.baseurl | prepend: site.url}}/assets/images/streak-society-induction.png" alt="streak-society-induction" style="width:40%;" />
 _A flashy animation and a warm splash of color turns your one minute lesson into a monumental achievement._
 
 This is Duolingo's exclusive and prestigious club of learners known as the **Streak Society**. When it first launched in 2022, you were inducted into this group after reaching a year of consistent studying with Duolingo. Themed after the flame iconography their streaks take after, as well as leveraging the phoenix as a well-known icon across cultures, it serves as a universally acknowledgeable milestone of your committed learning.
@@ -61,7 +61,7 @@ Streak Freezes, for example, help preserve streaks should learners forget to do 
 
 However, with the frequency at which Streak Freezes can be purchased (or even given as rewards for lessons), streaks can be maintained for months and months on end without logging in as often. Streak Freezes also don't count against the streak, so it still appears as though the streak if a perfect one; a symbol of a flawless, dedicated learner.
 
-<img src="{{site.baseurl | prepend: site.url}}/assets/images/frozen-calendar.png" alt="frozen-calendar" style="width:40%;" />
+<img src="{{site.baseurl | prepend: site.url}}/assets/images/frozen-calendar.png" alt="frozen-calendar" style="width:45%;" />
 _Users can view their calendar to see how many days they've skipped, but other users can't. Does this look like dedicated learning still?_
 
 And should a streak get broken despite every guard rail, Duolingo is generous enough to even offer a _Streak Repair_, should you be willing to sit through a few short lessons to get it back.
@@ -100,7 +100,7 @@ It's a challenge *all* mobile UI/UX developers will have to face as the digital 
 
 *Remember. Attention is currency. Knowledge is power. If you're aware of the design choices and psychological biases companies use to win your attention, you have a say in where you spend your time.*
 
-*I write about the psychological tactics that fuel designs, as well how applications, websites, and more have us coming back again and again. If you'd like to reach out to me, feel free to contact me at my [LinkedIn](https://www.linkedin.com/in/john-scharff), or email me at __jascharff02@gmail.com__*
+*I write about the psychological tactics that fuel designs, as well how applications, websites, and more have us coming back again and again. If you'd like to reach out to me, feel free to contact me at my [LinkedIn](https://www.linkedin.com/in/john-scharff), or email me at __scharff.ja@gmail.com__*
 
 
 

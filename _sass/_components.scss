@@ -58,12 +58,32 @@ code {
   }
 
   img + em {
-    font-size: small;
+    font-size: medium;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 4px;
+    text-align: center;
   }
+
+  @media only screen and (max-width: 768px) {
+    img {
+      max-width: 100%;
+      width: 80% !important;
+      margin: 0.5em;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    img + em {
+      font-size: medium;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 4px;
+      text-align: center;
+    }
+}
 
   blockquote {
     line-height: 1.375;
