@@ -16,7 +16,7 @@ Attention is currency. Knowledge is power. And if you know how these tactics and
 
 <img src="{{site.baseurl | prepend: site.url}}/assets/images/scharff-headshot.jpg" alt="scharff-headshot" style="float: right; border: 1px black solid; margin: 10px; margin-top: 6px;" height="200" />
 
-I'm John Scharff, a UI/UX developer with a passion for social psychology. After graduating with my bachelors in Computer Science from the University of Florida, I went on to do frontend development for Southern Glazers Wine & Spirits under their prestigious Next-Gen ETP program.
+I'm John Scharff, a UI/UX developer with a passion for social psychology. After graduating with my bachelors in Computer Science from the University of Florida, I went on to do frontend development for Southern Glazers Wine & Spirits under their prestigious Next-Gen ETP program. Since then, I've delivered high quality products to nearly 12k users to solve pain points and onboard them onto Proof, the company's flagship e-commerce platform.
 
 I aspire to work in a career where I can leverage my dual disciplines in technology and psychology to create cutting-edge products that put users and their needs first. 
 
